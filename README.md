@@ -1,4 +1,4 @@
-# Java Playlist
+ # Java Playlist
 
 ## Overview
 Java Playlist is a simple console-based or GUI-based application that allows users to create, manage, and play playlists of their favorite songs. The project is designed to demonstrate file handling, object-oriented programming, and multimedia integration in Java.
@@ -19,11 +19,11 @@ Java Playlist is a simple console-based or GUI-based application that allows use
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/java-playlist.git
+   git clone https://github.com/subratadasgit/java.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd java-playlist
+   cd java
    ```
 3. Compile the Java files:
    ```sh
