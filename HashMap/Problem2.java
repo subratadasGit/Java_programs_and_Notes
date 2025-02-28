@@ -1,7 +1,7 @@
 // Given an array, find the most frequent element in it. If there are multiple elements that appear a maximum
 // number of times, print any one of them.
 // Sample Input:
-// n = 6 
+// n = 6  
 // arr[] = {1, 3, 2, 1, 4, 1}
 // Expected Output :
 // 1
