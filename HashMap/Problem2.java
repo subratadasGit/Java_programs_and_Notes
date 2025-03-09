@@ -40,7 +40,7 @@ public class Problem2 {
                 ansKey=e.getKey();
             }
         }
-        System.out.println("Highest frequency Value from Array \n" + ansKey);
+        System.out.println("Highest frequency Value from Array \n" + ansKey+ " Frequency" + " "+ maxFreq);
     }
 
 }

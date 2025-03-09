@@ -1,0 +1,17 @@
+key(Actual To Be Store)-->HashFunction(H(R)= R % M)--> HashValues To the Node 
+
+ put)k,v) , get(k) not present return null , remove(k) ,
+ containskey(k)
+
+  Division method -->
+
+  Mid Square Method -->
+
+  H(60)= 60*60 --> 3600 --> 60
+
+
+  Digit Folding Method -->
+
+    1. Divide into segments of equal size
+    2. Take  sum   ->    s 
+    3.  s%m
