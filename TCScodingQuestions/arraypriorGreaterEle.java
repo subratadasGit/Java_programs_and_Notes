@@ -22,7 +22,7 @@ public class arraypriorGreaterEle {
       }
     }
 
-    System.out.print(cnt);
+    System.out.println(cnt);
     sc.close();
   }
 
